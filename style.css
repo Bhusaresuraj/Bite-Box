@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header
+{
+height: 90px;
+width: 100%;
+font-family: 'Montserrat', sans-serif;
+background-color:  black;
+}
+
+header img{
+    height: 70px;
+    width: 100%px;
+    display: flex;
+    float: left;
+    margin:auto;
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: 40px; 
+    padding-bottom: 50px;
+}
+
+header nav
+{
+    float: right;
+    margin-right: 90px;
+    margin-top: 29px;
+    display: flex;
+    gap: 50px
+}
+
+nav a
+{
+    text-decoration: none;
+    font-size: 40px;
+    display: flex;
+    color:  whitesmoke;
+}
+
+a:hover 
+{
+    color: red;
+}
