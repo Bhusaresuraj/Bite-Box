@@ -44,3 +44,23 @@ a:hover
 {
     color: red;
 }
+
+
+.banner
+{
+    display: flex;
+    margin-top: 20px;
+}
+
+.banner a
+{
+    margin-left: 50px;
+}
+
+.banner a img
+{
+    height: 600px;
+    margin-left: 0px;
+    
+
+}
